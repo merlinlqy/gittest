@@ -1,2 +1,2 @@
 #test
-/test.txt -crlf -diff -merge
+/test.txt lockable
